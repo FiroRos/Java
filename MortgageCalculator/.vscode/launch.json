@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.mortgage_calculator.Main",
+            "projectName": "MortgageCalculator_5395e74e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.mortgage_calculator.Main",
+            "projectName": "Mortgage Calculator_c2ff0496"
+        },
+        {
+            "type": "java",
+            "name": "Launch MainClass",
+            "request": "launch",
+            "mainClass": "com.mortgage_calculator.MainClass"
+        }
+    ]
+}
